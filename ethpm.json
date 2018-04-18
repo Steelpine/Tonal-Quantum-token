@@ -1,0 +1,14 @@
+{
+  "package_name": "tokens",
+  "version": "1.0.0",
+  "description": "Ethereum Token Contracts",
+  "authors": [
+    "Egor Balaev <egor.balaev@gmail.com>",
+    "Simon Smith <simon.smith@gmail.com>"
+  ],
+  "keywords": [
+    "tokens",
+    "consensys"
+  ],
+  "license": "TOQ"
+}
